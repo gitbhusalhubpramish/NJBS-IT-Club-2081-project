@@ -44,6 +44,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - your_email@example.com
 
 Project Link: [https://github.com/gitbhusalhubpramish/NJBS-IT-Club-2081-project](https://github.com/gitbhusalhubpramish/NJBS-IT-Club-2081-project)
